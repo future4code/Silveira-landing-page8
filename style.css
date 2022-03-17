@@ -1,0 +1,51 @@
+body {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    color: white;
+    margin: 0% auto;
+}
+
+head {
+    border-bottom: 0.5em solid black;
+}
+
+#titulo {
+    color: white;
+    font-family: 'Redressed', cursive;
+    font-size: 50px;
+    padding-left: 40px;
+}
+
+#banner {
+    display:flex;
+    padding-left: 280px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    align-items: center;
+    justify-items: center;
+    background-size:cover;
+}
+
+#taxas {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: rgb(255, 133, 25);
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: #fbff00;
+    padding-top: 5%;
+}
+
+#descricao {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 26px;
+    text-align:center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 15%;
+}
