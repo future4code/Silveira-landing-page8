@@ -21,6 +21,31 @@ header, footer, .body1 {
 }
 
 
+.rodape {
+  height: min-content;
+  background-image:linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  padding: 32px;
+  border-top: 0.4px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.imagem-pe{
+  display: flex;
+  justify-content: flex-end;
+   margin: 5px;
+   height: 45px;
+   width: 50px;
+}
+
+.texto-direitos{
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+
+
 
 #titulo {
     color: rgb(0, 0, 0);
