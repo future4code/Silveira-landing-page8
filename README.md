@@ -18,3 +18,9 @@ O <strong>body</strong> é composto de três seções. Na terceira seção foi i
 
 Quanto à responsividade, o site foi testado para <em>desktop, tablet e mobile</em>. Ele responde de acordo com o tamanho da tela, já que sua construção foi feita a partir de colunas. Assim, essas colunas de conteúdo se realinham fornecendo uma visão agradável e mobile-friendly do conteúdo.
 Por fim, nota-se que no <strong>header</strong> e no <strong>menu de navegação</strong>, quando a tela diminui para o tamanho mobile, os links para as seções somem, surgindo no lugar um menu <em>dropdown</em>, típico de celulares.
+
+![Site web](/img/1.png)
+![Site web](/img/2.png)
+![Site web](/img/3.png)
+![Site web](/img/4.png)
+![Site web](/img/5.png)
