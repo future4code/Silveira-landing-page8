@@ -1,5 +1,7 @@
 # Projeto de Fixação: Landing Page
 
+LINK DO SURGE: teeny-tiny-color.surge.sh
+
 Esse site foi desenvolvido por <em>Andresa Alves Ribeiro, Christian Cardeal de Miranda Penna Botto</em> e <em>João Augusto Pegnolate Gonçalves</em>.
 
 Ele é um projeto do <strong>Banco F4Bank</strong>.
