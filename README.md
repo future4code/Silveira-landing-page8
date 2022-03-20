@@ -24,4 +24,4 @@ Por fim, nota-se que no <strong>header</strong> e no <strong>menu de navegação
 ![Site web](/img/3.png)
 ![Site web](/img/35.png)
 ![Site web](/img/4.png)
-![Site web](/img/5.png)
+![Site web](/img/6.png)
