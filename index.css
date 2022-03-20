@@ -25,9 +25,7 @@ header, footer, .body1 {
 
 .rodape {
   height: min-content;
-  background-image:linear-gradient(120deg, #f6d365 0%, #fda085 100%);
   padding: 32px;
-  border-top: 0.4px solid black;
   display: flex;
   justify-content: space-between;
 }
@@ -43,6 +41,21 @@ header, footer, .body1 {
 .texto-direitos{
   display: flex;
   justify-content: flex-end;
+}
+
+.img-footer {
+  /* display: flex; */
+  /* justify-content: flex-end; */
+   /* margin: 5px; */
+   /* height: 5px;
+   width: 5px; */
+}
+
+.row-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 30px;
 }
 
 
